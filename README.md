@@ -5,10 +5,10 @@
 <br>
 
 <p align="center">
-<a href="Sobre">Sobre</a>
-<a href="Roadmap">Roadmap</a>
-<a href="Tecnologias">Tecnologias</a>
-<a href="Pré-requisitos">Pré Requisitos</a>
+<a href="#Sobre">Sobre</a> -
+<a href="#Roadmap">Roadmap</a> -
+<a href="#Tecnologias">Tecnologias</a> -
+<a href="#Pré-requisitos">Pré Requisitos</a>
 </p>
 
 # <h2>Sobre</h2>
@@ -17,11 +17,12 @@
 <br>
 
 # <h2>Roadmap</h2>
-<img alt="Readme" title="Readme" src="./img/01.gif">
-<img alt="Readme" title="Readme" src="./img/02.gif">
-<img alt="Readme" title="Readme" src="./img/03.gif">
-<img alt="Readme" title="Readme" src="./img/04.gif">
-
+<h1>
+  <img alt="Readme" title="Readme" src="./img/01.gif">
+  <img alt="Readme" title="Readme" src="./img/02.gif">
+  <img alt="Readme" title="Readme" src="./img/03.gif">
+  <img alt="Readme" title="Readme" src="./img/04.gif">
+</h1>
 <br>
 
 # <h2>🦾👾 Tecnologias</h2>
