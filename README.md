@@ -1,14 +1,15 @@
 # <strong><p align="center">README</p></strong>
 
-<p align="center">Esse projeto tem como foco em fazer uma tela de anotações identico ao um postite para lembrar posteriormente, além disso quando finalizado, você consegue deixar riscado a sua anotação ou encaminhar para lixeira o mesmo.</p>
+<p align="center">Esse projeto tem como foco em fazer uma tela de anotações identico ao um post-it para lembrar posteriormente, além disso quando finalizado, você consegue deixar riscado a sua anotação ou encaminhar para lixeira o mesmo.</p>
 
 <br>
 
+<h1 align="center">Tabela de conteúdo</h1>
 <p align="center">
-<a href="#Sobre">Sobre</a> -
-<a href="#Roadmap">Roadmap</a> -
-<a href="#Tecnologias">Tecnologias</a> -
-<a href="#Pré-requisitos">Pré Requisitos</a>
+<a href="#sobre">Sobre</a> -
+<a href="#roadmap">Roadmap</a> -
+<a href="#tecnologias">Tecnologias</a> -
+<a href="#pré-requisitos">Pré Requisitos</a>
 </p>
 
 # <h2>Sobre</h2>
@@ -45,10 +46,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 ## Clone este repositório
-$ git clone https://github.com/RodrigoSilva95/Postite
+$ git clone https://github.com/RodrigoSilva95/Post-It
 
 ## Acesse a pasta do projeto no terminal/cmd
-$ cd Postite
+$ cd Post-It
 
 ## Instale as dependências
 $ yarn e npm
